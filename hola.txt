@@ -1,0 +1,20 @@
+ El volumen de la unidad F es APLICACIONES
+ El n£mero de serie del volumen es: 4805-D73F
+
+ Directorio de F:\OneDrive\PROYECTO\Practica
+
+15/03/2017  21:57    <DIR>          .
+15/03/2017  21:57    <DIR>          ..
+14/03/2017  22:26                28 .gitignore
+15/03/2017  21:55               326 app.js
+15/03/2017  21:51             2.226 ejemplo.html
+15/03/2017  21:16    <DIR>          Ejemplo1
+15/03/2017  21:17    <DIR>          Ejemplo2
+15/03/2017  21:22    <DIR>          Ejemplo3
+15/03/2017  21:57               129 fichero.js
+15/03/2017  21:57                 0 hola.txt
+15/03/2017  21:36               984 index.html
+15/03/2017  21:56    <DIR>          node_modules
+14/03/2017  22:13                12 README.md
+               7 archivos          3.705 bytes
+               6 dirs  29.110.345.728 bytes libres

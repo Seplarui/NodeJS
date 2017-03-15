@@ -1,0 +1,1920 @@
+ El volumen de la unidad F es APLICACIONES
+ El n£mero de serie del volumen es: 4805-D73F
+
+ Directorio de F:\OneDrive\PROYECTO\Practica
+
+[.]            [..]           .gitignore     app.js         ejemplo.html
+[Ejemplo1]     [Ejemplo2]     [Ejemplo3]     fichero.js     hola.txt
+hola2.txt      index.html     [node_modules] README.md      server.js
+               9 archivos          5.220 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git
+
+COMMIT_EDITMSG   config           description      HEAD
+[hooks]          index            [info]           [logs]
+[objects]        [refs]           
+               5 archivos          3.299 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\hooks
+
+[.]                         [..]
+applypatch-msg.sample       commit-msg.sample
+post-update.sample          pre-applypatch.sample
+pre-commit.sample           pre-push.sample
+pre-rebase.sample           pre-receive.sample
+prepare-commit-msg.sample   update.sample
+              10 archivos         15.321 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\info
+
+[.]       [..]      exclude   
+               1 archivos            240 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\logs
+
+[.]    [..]   HEAD   [refs] 
+               1 archivos            935 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\logs\refs
+
+[.]       [..]      [heads]   [remotes] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\logs\refs\heads
+
+[.]      [..]     master   
+               1 archivos            935 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\logs\refs\remotes
+
+[.]      [..]     [origin] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\logs\refs\remotes\origin
+
+[.]      [..]     master   
+               1 archivos            882 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects
+
+[.]    [..]   [01]   [03]   [06]   [0d]   [12]   [24]   [2a]   [2c]   [45]
+[4d]   [4e]   [52]   [57]   [60]   [61]   [73]   [74]   [75]   [7a]   [86]
+[8a]   [93]   [9a]   [ad]   [b2]   [b4]   [b5]   [b7]   [ba]   [c2]   [c8]
+[c9]   [cf]   [d7]   [da]   [dd]   [e3]   [e7]   [ea]   [eb]   [ee]   [f0]
+[f1]   [f3]   [f9]   [fb]   [info] [pack] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\01
+
+[.]
+[..]
+7187e75d22a29416614d38d1160938d7263323
+               1 archivos            193 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\03
+
+[.]
+[..]
+835c6f0efb258bc68b15356ac0e5dd1919132b
+dcf68dd68c306a7672c1325da365e36964e913
+               2 archivos            296 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\06
+
+[.]
+[..]
+d7cc4c9fc5e57ed15f552a4fa3c2c56f7d679b
+               1 archivos            194 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\0d
+
+[.]
+[..]
+a5ac34e28127419df6a8e67f75ebef24757d53
+               1 archivos            123 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\12
+
+[.]
+[..]
+2914e24f2269269b6e3c7f7659dade3321a3d9
+               1 archivos          4.625 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\24
+
+[.]
+[..]
+7d44ed3b59dc00b11837567de889573d4fa2ab
+               1 archivos             54 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\2a
+
+[.]
+[..]
+7ee1884871f175b42fc36a97ca6bb5ec8a6970
+               1 archivos            216 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\2c
+
+[.]
+[..]
+e2684893920678438da6cf95bc86252c8b91a6
+f0ca5b0913628c9eb8e52e486c41d3dd76fb8e
+               2 archivos             94 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\45
+
+[.]
+[..]
+5a1a60812f8a4009fdda7bdf648c89e0fa61a0
+               1 archivos            148 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\4d
+
+[.]
+[..]
+36c63207bf7746f2eeaf0cf0dad68b0a8ad9b3
+               1 archivos            896 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\4e
+
+[.]
+[..]
+c0f4f3858d3f2494de66832be44c10cfa44654
+cd56bea4fd9d0ba97ae69766c7ab423807f63a
+               2 archivos            185 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\52
+
+[.]
+[..]
+abd8b177e7a5cb0deda72b5105c94663726d26
+               1 archivos            124 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\57
+
+[.]
+[..]
+06f1e478a7304ffdfd9d01c292a30e60b10802
+               1 archivos            169 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\60
+
+[.]
+[..]
+f6e7207ede62bfac1ff25f19dc834eb7779d55
+               1 archivos            158 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\61
+
+[.]
+[..]
+d28c08e87390c81eac892c4fa3117cadf3411e
+               1 archivos            667 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\73
+
+[.]
+[..]
+ad2d7c8eebce69b4f46f31c0a1a8c2d523bc0d
+               1 archivos         27.657 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\74
+
+[.]
+[..]
+281d427c857d0f60bdafff139aee8ba5ffbc74
+               1 archivos            306 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\75
+
+[.]
+[..]
+b0e82636a3e692e7048d8e72eebfa9e2eb522f
+               1 archivos            431 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\7a
+
+[.]
+[..]
+cdf846d1795ede4443bf0454f13a1ef4fa0ae3
+               1 archivos            209 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\86
+
+[.]
+[..]
+a030156f6156a30ef5669d5f1d0b705f3eedef
+               1 archivos            124 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\8a
+
+[.]
+[..]
+6ec47c748741e800e37da444bbb0ba84a4cb31
+               1 archivos             44 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\93
+
+[.]
+[..]
+fc6a8d900487c36caa5c81c02ebbfef63a6868
+               1 archivos            175 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\9a
+
+[.]
+[..]
+140358262788beaa9d37b4f8c8d898428aa6eb
+               1 archivos             52 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\ad
+
+[.]
+[..]
+0e71bc4baab495b574250ca929087b8692bb36
+               1 archivos            692 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\b2
+
+[.]
+[..]
+9332f945b859cea0075bb69e8bd5c1c113f05c
+               1 archivos         18.115 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\b4
+
+[.]
+[..]
+f384738dd1fd771d472a01833814b7eb53964d
+               1 archivos          1.131 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\b5
+
+[.]
+[..]
+82fe38cd8431f876453e78c95d1943a3daf7df
+               1 archivos            249 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\b7
+
+[.]
+[..]
+1cdc061bdd544bd21cc0d1efb75b362aeb651e
+               1 archivos             27 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\ba
+
+[.]
+[..]
+19f1d70607394b2586e46271af193d48015372
+               1 archivos            437 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\c2
+
+[.]
+[..]
+ba2590c623e8a51a719b56ff02a19a6d97dfee
+               1 archivos            506 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\c8
+
+[.]
+[..]
+cd1fd0e1c60cc36e134c819246aabe48f576c6
+               1 archivos         11.718 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\c9
+
+[.]
+[..]
+6ec58eed69e3a4a8ad32c1a789998f4c223906
+               1 archivos             52 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\cf
+
+[.]
+[..]
+356bf9abe9b7b9d772256a60697b9ae1847c54
+               1 archivos         12.058 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\d7
+
+[.]
+[..]
+156f22cbafc917c1d3bce946975ce09002d77f
+               1 archivos            167 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\da
+
+[.]
+[..]
+a5645579c754433c7212dfc476ccd846bf793e
+               1 archivos            156 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\dd
+
+[.]
+[..]
+c192fe6140196fa7aee5eaffdcf8fda27475cd
+               1 archivos            113 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\e3
+
+[.]
+[..]
+3c773e8f0d368ea7c82671567b9f108d5ed090
+5924f020f7fe98f99328e2ab89319023193ba6
+               2 archivos            223 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\e7
+
+[.]
+[..]
+7a8f0dafaf54569e16c2b6bdf882d75e26d7d3
+               1 archivos            131 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\ea
+
+[.]
+[..]
+3414819889a978a5a4a563fcb69d4266ad466a
+               1 archivos             88 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\eb
+
+[.]
+[..]
+cb466030b69151fa6de55b3fa8197f812eb5f6
+               1 archivos         22.112 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\ee
+
+[.]
+[..]
+10f757897f12e50174fca87440f4569080dc2b
+               1 archivos            188 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\f0
+
+[.]
+[..]
+1025b7bcaab18e6b698141c854f95669a5975c
+               1 archivos          6.575 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\f1
+
+[.]
+[..]
+fdc7e7bcd5d0dc4d97d0b3b598aba30d521773
+               1 archivos            354 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\f3
+
+[.]
+[..]
+4b2bcf18c08aad08959d0c650c30f1f28cd333
+               1 archivos             51 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\f9
+
+[.]
+[..]
+1035a929a13b2a074d2f590a2d3d1e47ec4f56
+               1 archivos            199 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\fb
+
+[.]
+[..]
+1fca4e8b4cfc28658d41c23990e5486fccaa7d
+               1 archivos            238 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\info
+
+[.]  [..] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\objects\pack
+
+[.]  [..] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\refs
+
+[.]       [..]      [heads]   [remotes] [tags]    
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\refs\heads
+
+[.]      [..]     master   
+               1 archivos             41 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\refs\remotes
+
+[.]      [..]     [origin] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\refs\remotes\origin
+
+[.]      [..]     master   
+               1 archivos             41 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\.git\refs\tags
+
+[.]  [..] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo1
+
+[.]            [..]           main.js        [nbproject]    [node_modules]
+               1 archivos            237 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo1\nbproject
+
+[.]                  [..]                 [private]
+project.properties   project.xml          
+               2 archivos            591 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo1\nbproject\private
+
+[.]                  [..]                 private.properties
+private.xml          
+               2 archivos            483 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo1\node_modules
+
+[.]          [..]         [underscore] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo1\node_modules\underscore
+
+[.]                  [..]                 LICENSE
+package.json         README.md            underscore-min.js
+underscore-min.map   underscore.js        
+               6 archivos        101.990 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo2
+
+[.]            [..]           foo.js         [node_modules] package.json
+               2 archivos            221 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo2\node_modules
+
+[.]          [..]         [underscore] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo2\node_modules\underscore
+
+[.]                 [..]                .npmignore          index.html
+index.js            LICENSE             package.json        [raw]
+README              underscore-min.js   underscore.js       
+               8 archivos        121.473 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo2\node_modules\underscore\raw
+
+[.]              [..]             underscore.psd   
+               1 archivos        215.540 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\Ejemplo3
+
+[.]      [..]     e-s.js   
+               1 archivos            378 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules
+
+[.]                       [..]                      [configuration-processor]
+[data-container]          [event-dispatcher]        [filesystem]
+[fs]                      
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor
+
+[.]             [..]            .jsbeautifyrc   .jshintrc       .npmignore
+.travis.yml     gruntfile.js    [libraries]     LICENSE         package.json
+README.md       [tests]         
+               8 archivos         10.418 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries\modules
+
+[.]                          [..]
+configuration-processor.js   
+               1 archivos          1.110 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries\scripts
+
+[.]        [..]       [JsLoader] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries\scripts\JsLoader
+
+[.]                      [..]                     [ConfigurationProcessor]
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries\scripts\JsLoader\ConfigurationProcessor
+
+[.]                         [..]
+Configuration.js            ConfigurationConverter.js
+ConfigurationProcessor.js   [Error]
+               3 archivos         39.211 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries\scripts\JsLoader\ConfigurationProcessor\Error
+
+[.]                   [..]                  [AssertionFailure]
+AssertionFailure.js   
+               1 archivos          3.111 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\libraries\scripts\JsLoader\ConfigurationProcessor\Error\AssertionFailure
+
+[.]             [..]            Aggregated.js   Traceable.js    
+               2 archivos          2.399 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\tests
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\tests\modules
+
+[.]                              [..]
+configuration-processorTest.js   
+               1 archivos         33.184 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\tests\scripts
+
+[.]        [..]       [JsLoader] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\tests\scripts\JsLoader
+
+[.]                      [..]                     [ConfigurationProcessor]
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\tests\scripts\JsLoader\ConfigurationProcessor
+
+[.]                             [..]
+ConfigurationConverterTest.js   ConfigurationTest.js
+[Error]                         
+               2 archivos          6.836 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\configuration-processor\tests\scripts\JsLoader\ConfigurationProcessor\Error
+
+[.]                       [..]                      AssertionFailureTest.js
+               1 archivos          1.491 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container
+
+[.]             [..]            .gitmodules     .jsbeautifyrc   .jshintrc
+.npmignore      .travis.yml     gruntfile.js    [libraries]     LICENSE
+package.json    README.md       [tests]         
+               9 archivos          8.811 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\modules
+
+[.]                 [..]                data-container.js   
+               1 archivos            967 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\scripts
+
+[.]      [..]     [Bender] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\scripts\Bender
+
+[.]             [..]            [DataContainer] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\scripts\Bender\DataContainer
+
+[.]              [..]             Graph.js         GraphVertex.js
+[Map]            Map.js           [Node]           Node.js
+[Repository]     Repository.js    Trie.js          
+               6 archivos         29.196 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\scripts\Bender\DataContainer\Map
+
+[.]              [..]             GraphNode.js     GraphVertex.js
+               2 archivos          6.110 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\scripts\Bender\DataContainer\Node
+
+[.]             [..]            Graph.js        LinkedList.js   
+               2 archivos          3.771 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\libraries\scripts\Bender\DataContainer\Repository
+
+[.]             [..]            LinkedList.js   
+               1 archivos          5.179 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests\modules
+
+[.]                     [..]                    data-containerTest.js
+               1 archivos            505 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests\scripts
+
+[.]      [..]     [Bender] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests\scripts\Bender
+
+[.]             [..]            [DataContainer] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests\scripts\Bender\DataContainer
+
+[.]                  [..]                 GraphTest.js
+GraphVertexTest.js   MapTest.js           [Node]
+[Repository]         RepositoryTest.js    TrieTest.js
+               5 archivos         32.809 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests\scripts\Bender\DataContainer\Node
+
+[.]                 [..]                GraphTest.js        LinkedListTest.js
+               2 archivos          4.457 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\data-container\tests\scripts\Bender\DataContainer\Repository
+
+[.]                 [..]                LinkedListTest.js   
+               1 archivos          8.959 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher
+
+[.]             [..]            .gitmodules     .jsbeautifyrc   .jshintrc
+.npmignore      .travis.yml     gruntfile.js    [libraries]     LICENSE
+package.json    README.md       [samples]       [tests]         
+               9 archivos         16.277 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\libraries
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\libraries\modules
+
+[.]                   [..]                  event-dispatcher.js
+               1 archivos            546 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\libraries\scripts
+
+[.]      [..]     [Bender] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\libraries\scripts\Bender
+
+[.]               [..]              [EventDispatcher] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\libraries\scripts\Bender\EventDispatcher
+
+[.]                            [..]
+Event.js                       EventDispatcher.js
+[EventDispatcherRepository]    EventDispatcherRepository.js
+ListenerLinkedList.js          ListenerLinkedListNode.js
+               5 archivos         12.824 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\libraries\scripts\Bender\EventDispatcher\EventDispatcherRepository
+
+[.]                  [..]                 EventAggregator.js
+               1 archivos          2.255 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples
+
+[.]                                   [..]
+basic-application-plugin-system.htm   README.md
+[requirejs]                           
+               2 archivos          6.185 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs
+
+[.]              [..]             .npmignore       [dist]
+[docs]           index.html       LICENSE          package.json
+README.md        require.js       tasks.txt        testBaseUrl.js
+[tests]          updatesubs.sh    
+               9 archivos         93.528 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\dist
+
+[.]                     [..]                    dist-build.sh
+dist-site.js            file.js                 [fonts]
+init.js                 Markdown-License.text   Markdown.pl
+post.html               pre.html                README.md
+               9 archivos         59.899 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\dist\fonts
+
+[.]               [..]              Inconsolata.ttf   [PT-Sans]
+               1 archivos         31.860 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\dist\fonts\PT-Sans
+
+[.]
+[..]
+Paratype PT Sans Free Font License.txt
+PT_Sans.ttf
+PT_Sans_Bold.ttf
+PT_Sans_Bold_Italic.ttf
+PT_Sans_Caption.ttf
+PT_Sans_Caption_Bold.ttf
+PT_Sans_Italic.ttf
+PT_Sans_Narrow.ttf
+PT_Sans_Narrow_Bold.ttf
+               9 archivos      3.835.927 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\docs
+
+[.]                     [..]                    api.html
+commonjs.html           contributing.html       [design]
+dojo.html               download.html           errors.html
+faq-advanced.html       faq-optimization.html   faq.html
+history.html            jquery.html             node.html
+optimization.html       plugins.html            requirements.html
+start.html              why.html                whyamd.html
+              18 archivos        236.561 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\docs\design
+
+[.]           [..]          packages.md   
+               1 archivos            102 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests
+
+[.]                      [..]                     afterload.html
+afterloadreadystate.js   all.js                   [anon]
+bar                      baseUrl.html             [browsertests]
+[circular]               circular-tests.js        circular.html
+[cjsSpace]               [commonjs]               config.html
+configRequirejs.html     [dataMain]               [datauri]
+[defineDouble]           [definedSpecified]       [delayedDefine]
+depEmpty.html            depoverlap.html          depoverlap.js
+dimple.js                [doh]                    [domReady]
+dos.js                   [error]                  [exports]
+foo                      func.js                  funcFour.js
+funcOne.js               funcThree.js             funcTwo.js
+[hasOwnProperty]         [i18n]                   index.html
+[isBrowser]              [issue379]               [jquery]
+[jsonp]                  [layers]                 map.js
+[mapConfig]              [moduleConfig]           multiversion.html
+NAMESPACE.html           [nestedDefine]           [nestedRelativeRequire]
+[nestedRequire]          [nestedRequireConfig]    one.js
+[onResourceLoad]         [packages]               [pathArray]
+[paths]                  [plugins]                queryPath.html
+[relative]               [remoteUrls]             [requireAsync]
+[requirePluginLoad]      [shim]                   simple-badbase.html
+simple-nohead.html       simple-tests.js          simple.html
+simple.js                [specialDeps]            [text]
+[toUrl]                  [trailingComma]          tres.js
+two.js                   [undef]                  [uniques]
+[universal]              uno.js                   urlArgsToUrl.html
+[urlfetch]               [version1]               [version2]
+workers.html             workers.js               
+              37 archivos         35.672 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\anon
+
+[.]               [..]              a.js              anon-tests.js
+anonSimple.html   blue.js           c.js              green.js
+magenta.js        message.txt       red.js            [sub]
+yellow.js         
+              10 archivos          3.451 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\anon\sub
+
+[.]    [..]   b.js   
+               1 archivos             99 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests
+
+[.]                           [..]
+[appendbeforeload]            [async]
+common.js                     [docwritenested]
+functionToString.html         [noload]
+[onerror]                     [scriptload]
+[scriptloadinteractive]       [scriptloadinteractiveattach]
+[vardefine]                   
+               2 archivos          2.751 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\appendbeforeload
+
+[.]         [..]        one.dphpd   test.html   two.js      
+               3 archivos          1.509 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\async
+
+[.]         [..]        async.php   one.php     two.js      
+               3 archivos          3.295 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\docwritenested
+
+[.]          [..]         index.html   one.js       two.js       
+               3 archivos            986 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\noload
+
+[.]          [..]         index.html   server.js    
+               2 archivos          3.249 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\onerror
+
+[.]              [..]             index.html       ok.js
+parseError.js    scriptError.js   
+               4 archivos          2.523 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\scriptload
+
+[.]          [..]         eight.js     five.js      four.js      index.html
+nine.js      one.js       seven.js     six.js       three.js     two.js
+              10 archivos      1.993.562 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\scriptloadinteractive
+
+[.]              [..]             eight.js         five.js
+four.js          four.php         index-php.html   index.html
+nine.js          one.js           seven.js         six.js
+six.php          three.js         two.js           
+              13 archivos      3.991.210 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\scriptloadinteractiveattach
+
+[.]              [..]             eight.js         five.js
+four.js          four.php         index-php.html   index.html
+nine.js          one.js           seven.js         six.js
+six.php          three.js         two.js           
+              13 archivos      3.991.637 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\browsertests\vardefine
+
+[.]          [..]         define.js    four.js      index.html   one.js
+three.js     two.js       
+               6 archivos          1.915 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\circular
+
+[.]                       [..]                      [414]
+a.js                      b.js                      c.js
+circularPlugin-tests.js   circularPlugin.html       [complexPlugin]
+plugin.js                 [transpiler]              
+               6 archivos          1.569 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\circular\414
+
+[.]            [..]           414-tests.js   414.html       A.js
+B.js           C.js           MyClass.js     
+               6 archivos          2.617 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\circular\complexPlugin
+
+[.]                      [..]                     complexPlugin-tests.js
+complexPlugin.html       helper.js                main.js
+slowText.js              toolbar.html             toolbar.js
+viewport.html            viewport.js              
+               9 archivos         14.476 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\circular\transpiler
+
+[.]                   [..]                  a.refine
+b.refine              c.refine              d.refine
+e.refine              transpiler-tests.js   transpiler.html
+               7 archivos          1.984 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\cjsSpace
+
+[.]                      [..]                     a.js
+b.js                     c.js                     cjsDotRequire-tests.js
+cjsDotRequire.html       cjsSpace-tests.js        cjsSpace.html
+               7 archivos          2.379 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs
+
+[.]     [..]    [tests] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests
+
+[.]       [..]      [modules] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules
+
+[.]   [..]  [1.0] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0
+
+[.]              [..]             [absolute]       all.html
+[cyclic]         [determinism]    [exactExports]   [hasOwnProperty]
+[method]         [missing]        [monkeys]        [nested]
+[relative]       system.js        test.js          [transitive]
+               3 archivos          1.418 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\absolute
+
+[.]            [..]           b.js           program.html   program.js
+[submodule]    test.js        
+               4 archivos          1.288 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\absolute\submodule
+
+[.]    [..]   a.js   
+               1 archivos            144 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\cyclic
+
+[.]            [..]           a.js           b.js           program.html
+program.js     test.js        
+               5 archivos          1.528 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\determinism
+
+[.]            [..]           program.html   program.js     [submodule]
+test.js        
+               3 archivos          1.063 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\determinism\submodule
+
+[.]    [..]   a.js   b.js   
+               2 archivos            428 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\exactExports
+
+[.]            [..]           a.js           program.html   program.js
+test.js        
+               4 archivos          1.266 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\hasOwnProperty
+
+[.]                 [..]                hasOwnProperty.js   program.html
+program.js          test.js             toString.js         
+               5 archivos          1.303 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\method
+
+[.]            [..]           a.js           program.html   program.js
+test.js        
+               4 archivos          1.547 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\missing
+
+[.]            [..]           program.html   program.js     test.js
+               3 archivos          1.231 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\monkeys
+
+[.]            [..]           a.js           program.html   program.js
+test.js        
+               4 archivos          1.233 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\nested
+
+[.]            [..]           [a]            program.html   program.js
+test.js        
+               3 archivos          1.107 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\nested\a
+
+[.]  [..] [b]  
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\nested\a\b
+
+[.]  [..] [c]  
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\nested\a\b\c
+
+[.]    [..]   d.js   
+               1 archivos            128 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\relative
+
+[.]            [..]           program.html   program.js     [submodule]
+test.js        
+               3 archivos          1.194 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\relative\submodule
+
+[.]    [..]   a.js   b.js   
+               2 archivos            238 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\commonjs\tests\modules\1.0\transitive
+
+[.]            [..]           a.js           b.js           c.js
+program.html   program.js     test.js        
+               6 archivos          1.449 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\dataMain
+
+[.]             [..]            [baseUrl]       dataMain.html   dataMain.js
+[dataMainIndex] 
+               2 archivos            737 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\dataMain\baseUrl
+
+[.]                    [..]                   a.js
+dataMainBaseUrl.html   [src]                  
+               2 archivos            724 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\dataMain\baseUrl\src
+
+[.]       [..]      main.js   
+               1 archivos            210 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\dataMain\dataMainIndex
+
+[.]                  [..]                 dataMainIndex.html
+index.js             
+               2 archivos          1.013 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\datauri
+
+[.]            [..]           datauri.html   
+               1 archivos            922 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\defineDouble
+
+[.]                 [..]                defineDouble.html   
+               1 archivos          1.284 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\definedSpecified
+
+[.]                         [..]
+a.js                        b.js
+definedSpecified-tests.js   definedSpecified.html
+               4 archivos          1.359 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\delayedDefine
+
+[.]                      [..]                     delayedDefine-tests.js
+delayedDefine.html       
+               2 archivos          1.730 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\doh
+
+[.]                 [..]                LICENSE             README
+runner.html         runner.js           runner.sh           small_logo.png
+_browserRunner.js   _nodeRunner.js      _rhinoRunner.js     [_sounds]
+               9 archivos         92.748 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\doh\_sounds
+
+[.]          [..]         doh.wav      dohaaa.wav   LICENSE      woohoo.wav
+               4 archivos         21.352 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\domReady
+
+[.]                            [..]
+domReady-tests.js              domReady.html
+domReadyExtraConfig-tests.js   domReadyExtraConfig.html
+one.js                         two.js
+               6 archivos          3.320 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\error
+
+[.]                             [..]
+a.js                            b.js
+c.js                            d.js
+defineError.js                  defineErrorLocal.html
+[doubleRequire]                 errorContinue.html
+errorContinueLocal.html         globalOnError.html
+plug.js                         pluginErrorContinue.html
+pluginErrorContinueLocal.html   requireErrback.html
+              13 archivos         12.862 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\error\doubleRequire
+
+[.]                  [..]                 b.js
+c.js                 doubleRequire.html   
+               3 archivos          2.006 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\exports
+
+[.]                         [..]
+am.js                       assign.js
+assign2.js                  bm.js
+cm.js                       exports-tests.js
+exports.html                funcSet.js
+implicitModule.js           moduleAndExports-tests.js
+moduleAndExports.html       simpleReturn.js
+usethis.js                  vanilla.js
+              14 archivos          3.670 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\hasOwnProperty
+
+[.]                       [..]                      hasOwnProperty-tests.js
+hasOwnProperty.html       hasOwnProperty.js         prototype.js
+toString.js               
+               5 archivos            976 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\i18n
+
+[.]             [..]            common.html     commonA.js      commonB.js
+i18n.html       [nls]           testModule.js   
+               5 archivos          4.646 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\i18n\nls
+
+[.]            [..]           colors.js      [en-us-surfer] [fr]
+               1 archivos            313 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\i18n\nls\en-us-surfer
+
+[.]         [..]        colors.js   
+               1 archivos             81 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\i18n\nls\fr
+
+[.]         [..]        colors.js   
+               1 archivos             48 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\isBrowser
+
+[.]                  [..]                 a.js
+isBrowser-tests.js   isBrowser.html       
+               3 archivos          1.052 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\issue379
+
+[.]             [..]            issue379.html   issue379.js     
+               2 archivos          1.146 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\jquery
+
+[.]                   [..]                  jquery.html
+jqueryDynamic.html    jqueryDynamic2.html   [scripts]
+               3 archivos          3.558 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\jquery\scripts
+
+[.]                      [..]                     app.js
+dynamicApp.js            jquery-1.7.1.js          jquery-GPL-LICENSE.txt
+jquery-MIT-LICENSE.txt   jquery.alpha.js          jquery.beta.js
+jquery.epsilon.js        jquery.gamma.js          
+               9 archivos        265.940 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\jsonp
+
+[.]            [..]           jsonp.html     lamp.js        twitter.html
+               3 archivos          1.945 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\layers
+
+[.]              [..]             build.sh         epsilon.js
+helloWorld.txt   layer1.js        layers.html      
+               5 archivos          2.388 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig
+
+[.]                             [..]
+[a1]                            a1.js
+[adapter]                       [another]
+b.js                            [built]
+[c]                             c.js
+[c1]                            c1.js
+[c2]                            c2.js
+d.js                            e.js
+mapConfig-tests.js              mapConfig.html
+mapConfigDelayed-tests.js       mapConfigDelayed.html
+mapConfigMulti-tests.js         mapConfigMulti.html
+mapConfigPlugin-tests.js        mapConfigPlugin.html
+mapConfigRelative-tests.js      mapConfigRelative.html
+mapConfigSpecificity-tests.js   mapConfigSpecificity.html
+mapConfigStar-tests.js          mapConfigStar.html
+mapConfigStarAdapter-tests.js   mapConfigStarAdapter.html
+[plug]                          plug.js
+              24 archivos         12.204 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\a1
+
+[.]   [..]  [sub] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\a1\sub
+
+[.]      [..]     one.js   
+               1 archivos            101 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\adapter
+
+[.]    [..]   d.js   
+               1 archivos             68 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\another
+
+[.]        [..]       [c]        c.js       minor.js   
+               2 archivos            160 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\another\c
+
+[.]      [..]     dim.js   sub.js   
+               2 archivos            155 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\built
+
+[.]                              [..]
+mapConfig-tests.js               mapConfigBuilt.html
+mapConfigPlugin-tests.js         mapConfigPluginBuilt.html
+mapConfigStar-tests.js           mapConfigStarAdapter-tests.js
+mapConfigStarAdapterBuilt.html   mapConfigStarBuilt.html
+               8 archivos          8.435 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\c
+
+[.]      [..]     sub.js   
+               1 archivos             31 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\c1
+
+[.]      [..]     sub.js   
+               1 archivos             32 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\c2
+
+[.]      [..]     sub.js   
+               1 archivos             32 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\mapConfig\plug
+
+[.]       [..]      c1.js     c2.js     main.js   
+               3 archivos            101 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\moduleConfig
+
+[.]                     [..]                    a.js
+[b]                     moduleConfig-tests.js   moduleConfig.html
+plain.js                
+               4 archivos          1.387 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\moduleConfig\b
+
+[.]    [..]   c.js   
+               1 archivos            103 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\nestedDefine
+
+[.]                  [..]                 four.js
+nestedDefine.html    nestedDefine2.html   nestedDefine2.js
+one.js               two.js               
+               6 archivos          2.812 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\nestedRelativeRequire
+
+[.]                          [..]
+main.js                      nestedRelativeRequire.html
+[sub]                        
+               2 archivos            637 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\nestedRelativeRequire\sub
+
+[.]    [..]   a.js   b.js   
+               2 archivos            314 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\nestedRequire
+
+[.]                      [..]                     a.js
+base.js                  nestedRequire-tests.js   nestedRequire.html
+               4 archivos          1.450 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\nestedRequireConfig
+
+[.]                        [..]
+nestedRequireConfig.html   nestedRequireConfig.js
+               2 archivos          1.206 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\onResourceLoad
+
+[.]                      [..]                     a.js
+b.js                     nestedRequire-tests.js   nestedRequire.html
+               4 archivos          1.873 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages
+
+[.]                 [..]                [bar]               [baz]
+[config]            [dojox]             [foo]               [funky]
+[optimizing]        packages-tests.js   packages.html       [pkgs]
+replace.js          
+               3 archivos          3.712 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\bar
+
+[.]   [..]  [0.4] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\bar\0.4
+
+[.]       [..]      [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\bar\0.4\scripts
+
+[.]       [..]      main.js   
+               1 archivos             49 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\baz
+
+[.]   [..]  [lib] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\baz\lib
+
+[.]         [..]        helper.js   index.js    
+               2 archivos            241 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\config
+
+[.]           [..]          config.html   [pixie]       
+               1 archivos          1.715 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\config\pixie
+
+[.]        [..]       index.js   
+               1 archivos            108 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\dojox
+
+[.]       [..]      door.js   [window]  
+               1 archivos             36 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\dojox\window
+
+[.]         [..]        pane.js     window.js   
+               2 archivos            162 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\foo
+
+[.]   [..]  [lib] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\foo\lib
+
+[.]         [..]        main.js     second.js   
+               2 archivos            154 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\funky
+
+[.]        [..]       index.js   [lib]      
+               1 archivos            124 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\funky\lib
+
+[.]         [..]        monkey.js   
+               1 archivos             32 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\optimizing
+
+[.]                     [..]                    build.js
+main.js                 optimizing-built.html   optimizing.html
+[packages]              
+               4 archivos          2.331 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\optimizing\packages
+
+[.]      [..]     [engine] [fuel]   [tires]  
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\optimizing\packages\engine
+
+[.]             [..]            main.js         pistons.js      sparkplugs.js
+               3 archivos            260 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\optimizing\packages\fuel
+
+[.]       [..]      main.js   
+               1 archivos             30 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\optimizing\packages\tires
+
+[.]       [..]      main.js   
+               1 archivos             30 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs
+
+[.]     [..]    [alpha] [beta]  [dojox] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\alpha
+
+[.]          [..]         main.js      replace.js   
+               2 archivos             69 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\beta
+
+[.]   [..]  [0.2] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\beta\0.2
+
+[.]       [..]      [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\beta\0.2\scripts
+
+[.]       [..]      beta.js   util.js   
+               2 archivos             79 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\dojox
+
+[.]     [..]    [chair] [table] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\dojox\chair
+
+[.]       [..]      legs.js   main.js   
+               2 archivos            159 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\packages\pkgs\dojox\table
+
+[.]        [..]       legs.js    table.js   
+               2 archivos            168 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\pathArray
+
+[.]                  [..]                 pathArray.html
+pathArrayFail.html   real.js              
+               3 archivos          3.684 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\paths
+
+[.]                         [..]
+[first.js]                  [impl]
+paths.html                  relativeModuleId-tests.js
+relativeModuleId.html       [relativeNormalize]
+util.js                     
+               4 archivos          2.760 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\paths\first.js
+
+[.]         [..]        first.js    second.js   
+               2 archivos            315 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\paths\impl
+
+[.]        [..]       array.js   util.js    
+               2 archivos            152 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\paths\relativeNormalize
+
+[.]                          [..]
+[bar]                        foo2.js
+relativeNormalize-tests.js   relativeNormalize.html
+               3 archivos          1.098 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\paths\relativeNormalize\bar
+
+[.]      [..]     baz.js   
+               1 archivos            103 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins
+
+[.]                 [..]                a.js                b.js
+c.js                [delegated]         double.html         double.js
+earth.js            [fromText]          [fromTextEvalError] [fromTextNoDefine]
+index.js            indexBuilder.js     nameOnly-tests.js   nameOnly.html
+nameOnly.js         [onerror]           [pluginLast]        [pluginMap]
+[pluginMapSameName] [pluginShim]        [prime]             sync-tests.js
+sync.html           [textDepend]        
+              13 archivos          5.750 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\delegated
+
+[.]                  [..]                 a.refine
+delegated-tests.js   delegated.html       delegated.js
+               4 archivos          1.244 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\fromText
+
+[.]                       [..]                      a.refine
+b.refine                  fromText-tests.js         fromText.html
+fromTextConfig-tests.js   fromTextConfig.html       refine.js
+               7 archivos          8.596 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\fromTextEvalError
+
+[.]                          [..]
+a.refine                     b.refine
+fromTextEvalError-tests.js   fromTextEvalError.html
+               4 archivos          1.453 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\fromTextNoDefine
+
+[.]                         [..]
+a.refine                    fromTextNoDefine-tests.js
+fromTextNoDefine.html       refine.js
+               4 archivos          6.024 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\onerror
+
+[.]                [..]               onerror-tests.js   onerror.html
+thrower.js         
+               3 archivos          1.198 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\pluginLast
+
+[.]                       [..]                      app.js
+bigCollection.html        bigCollection.js          collection.js
+collectionHelper.js       common.js                 component.html
+component.js              main.js                   pluginLast.html
+specificCollection.html   specificCollection.js     
+              12 archivos          3.080 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\pluginMap
+
+[.]                  [..]                 [dynamic]
+pluginMap-tests.js   pluginMap.html       
+               2 archivos          1.521 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\pluginMap\dynamic
+
+[.]                     [..]                    application.js
+employee.js             main.js                 person.js
+plugin.js               pluginMapDynamic.html   
+               6 archivos          1.502 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\pluginMapSameName
+
+[.]                          [..]
+[plugin]                     pluginMapSameName-tests.js
+pluginMapSameName.html       
+               2 archivos          1.080 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\pluginMapSameName\plugin
+
+[.]         [..]        plugin.js   
+               1 archivos             87 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\pluginShim
+
+[.]                   [..]                  a.refine
+legacy.js             pluginShim-tests.js   pluginShim.html
+               4 archivos          1.219 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\prime
+
+[.]        [..]       a.js       b.js       c.js       earth.js   
+               4 archivos            460 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\plugins\textDepend
+
+[.]                   [..]                  test.txt
+textDepend-tests.js   textDepend.html       textDepend.js
+               4 archivos          1.035 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative
+
+[.]                        [..]
+[foo]                      [greek]
+[outsideBaseUrl]           relative-tests.js
+relative.html              relativeBaseUrl-tests.js
+relativeBaseUrl.html       top.js
+               5 archivos          2.646 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative\foo
+
+[.]        [..]       [bar]      bar.js     three.js   
+               2 archivos             73 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative\foo\bar
+
+[.]           [..]          message.txt   one.js        two.js
+               3 archivos            367 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative\greek
+
+[.]        [..]       alpha.js   main.js    
+               2 archivos            220 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative\outsideBaseUrl
+
+[.]    [..]   2.js   [a]    [b]    
+               1 archivos            131 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative\outsideBaseUrl\a
+
+[.]                   [..]                  outsideBaseUrl.html
+               1 archivos            930 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\relative\outsideBaseUrl\b
+
+[.]    [..]   1.js   3.js   
+               2 archivos            227 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\remoteUrls
+
+[.]                   [..]                  jqwrap.js
+remoteUrls-tests.js   remoteUrls.html       
+               3 archivos          1.107 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\requireAsync
+
+[.]                     [..]                    requireAsync-tests.js
+requireAsync.html       
+               2 archivos            848 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\requirePluginLoad
+
+[.]                          [..]
+requirePluginLoad-tests.js   requirePluginLoad.html
+               2 archivos          1.839 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\shim
+
+[.]              [..]             a.js             b.js
+basic-tests.js   basic.html       [built]          c.js
+d.js             e.js             f.js             
+               8 archivos          2.400 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\shim\built
+
+[.]                [..]               basic-built.html   basic-tests.js
+               2 archivos          3.752 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\specialDeps
+
+[.]                    [..]                   foo.js
+specialDeps-tests.js   specialDeps.html       
+               3 archivos          1.120 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\text
+
+[.]                [..]               local.js           plain.txt
+[resources]        separate.js        subwidget.html     subwidget.js
+subwidget2.html    text.html          textBuilt.html     textBuilt.js
+textOnError.html   textOnly.html      textOnXhr.html     widget.html
+widget.js          
+              14 archivos          9.573 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\text\resources
+
+[.]           [..]          local.html    sample.html   
+               2 archivos            231 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\toUrl
+
+[.]              [..]             .hidden.html     auxil.html
+main.html        main.js          [sub]            toUrl-tests.js
+toUrl.html       
+               6 archivos          1.399 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\toUrl\sub
+
+[.]         [..]        [nested]    noext       util.html   util.js
+               3 archivos            230 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\toUrl\sub\nested
+
+[.]        [..]       thing.js   
+               1 archivos            169 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\trailingComma
+
+[.]                  [..]                 a.js
+trailingComma.html   trailingComma.js     
+               3 archivos            863 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\undef
+
+[.]                     [..]                    globalFoo.js
+real.js                 undef.html              undefEnforceShim.html
+undefLocal.html         undefNoRequire.html     
+               6 archivos          6.987 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\uniques
+
+[.]            [..]           one.js         three.js       two.js
+uniques.html   
+               4 archivos          1.707 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\universal
+
+[.]                                 [..]
+eye.js                              newt.js
+spell.js                            tail.js
+universal-built.html                universal-tests-built-expected.js
+universal-tests-built.js            universal-tests.js
+universal.html                      
+               9 archivos         10.569 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\urlfetch
+
+[.]             [..]            one.js          three.js        two.js
+urlfetch.html   
+               4 archivos          2.638 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\version1
+
+[.]        [..]       alpha.js   beta.js    gamma.js   omega.js   
+               4 archivos            253 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\samples\requirejs\tests\version2
+
+[.]          [..]         alpha.js     beta.js      epsilon.js   omega.js
+               4 archivos            253 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\tests
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\tests\modules
+
+[.]                       [..]                      event-dispatcherTest.js
+               1 archivos            571 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\tests\scripts
+
+[.]      [..]     [Bender] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\tests\scripts\Bender
+
+[.]               [..]              [EventDispatcher] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\tests\scripts\Bender\EventDispatcher
+
+[.]                         [..]
+[EventDispatcherRepository] EventDispatcherTest.js
+EventTest.js                
+               2 archivos         12.747 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\event-dispatcher\tests\scripts\Bender\EventDispatcher\EventDispatcherRepository
+
+[.]                      [..]                     EventAggregatorTest.js
+               1 archivos          5.531 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem
+
+[.]             [..]            .jsbeautifyrc   .jshintrc       .npmignore
+.travis.yml     gruntfile.js    [libraries]     package.json    [tests]
+               6 archivos          7.335 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries
+
+[.]       [..]      [modules] [scripts] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\modules
+
+[.]             [..]            filesystem.js   
+               1 archivos          5.941 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts
+
+[.]        [..]       [JsLoader] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts\JsLoader
+
+[.]          [..]         [FileSystem] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts\JsLoader\FileSystem
+
+[.]                           [..]
+[FileSystemScanner]           FileSystemScanner.js
+[FileSystemStrategy]          FileSystemStrategy.js
+ScanningBranch.js             ScanningBranchAggregator.js
+ScanningConfiguration.js      ScanningProcess.js
+ScanningResult.js             [ScanningStrategy]
+ScanningStrategy.js           
+               8 archivos         42.684 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts\JsLoader\FileSystem\FileSystemScanner
+
+[.]              [..]             Remembering.js   
+               1 archivos          3.382 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts\JsLoader\FileSystem\FileSystemStrategy
+
+[.]               [..]              Asynchronous.js   Synchronous.js
+               2 archivos          4.065 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts\JsLoader\FileSystem\ScanningStrategy
+
+[.]          [..]         [Pattern]    Pattern.js   
+               1 archivos          2.713 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\libraries\scripts\JsLoader\FileSystem\ScanningStrategy\Pattern
+
+[.]            [..]           Directory.js   File.js        
+               2 archivos          1.593 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests
+
+[.]         [..]        [fixtures]  [modules]   README.md   [scripts]
+               1 archivos          3.287 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures
+
+[.]               [..]              [search_site_1]   [search_target]
+test_file_1.txt   
+               1 archivos             21 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1
+
+[.]             [..]            [directory_1]   [directory_2]   [search_target]
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1\directory_1
+
+[.]                 [..]                search_target.txt   search_tgt_2.txt
+search_tgt_3.txt    
+               3 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1\directory_2
+
+[.]           [..]          [directory_5] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1\directory_2\directory_5
+
+[.]                 [..]                [directory_6]       search_target.txt
+               1 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1\directory_2\directory_5\directory_6
+
+[.]        [..]       .gitkeep   
+               1 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1\search_target
+
+[.]          [..]         [search_tgt] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_site_1\search_target\search_tgt
+
+[.]        [..]       .gitkeep   
+               1 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\fixtures\search_target
+
+[.]        [..]       .gitkeep   
+               1 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\modules
+
+[.]                 [..]                filesystemTest.js   
+               1 archivos          3.197 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts
+
+[.]        [..]       [JsLoader] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts\JsLoader
+
+[.]          [..]         [FileSystem] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts\JsLoader\FileSystem
+
+[.]                        [..]
+[FileSystemScanner]        FileSystemScannerTest.js
+[FileSystemStrategy]       ScanningBranchTest.js
+ScanningProcessTest.js     ScanningResultTest.js
+[ScanningStrategy]         ScanningStrategyTest.js
+               5 archivos         31.614 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts\JsLoader\FileSystem\FileSystemScanner
+
+[.]                  [..]                 RememberingTest.js
+               1 archivos          6.398 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts\JsLoader\FileSystem\FileSystemStrategy
+
+[.]                   [..]                  AsynchronousTest.js
+SynchronousTest.js    
+               2 archivos         16.279 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts\JsLoader\FileSystem\ScanningStrategy
+
+[.]       [..]      [Pattern] 
+               0 archivos              0 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\filesystem\tests\scripts\JsLoader\FileSystem\ScanningStrategy\Pattern
+
+[.]                [..]               DirectoryTest.js   FileTest.js
+               2 archivos          5.197 bytes
+
+ Directorio de F:\OneDrive\PROYECTO\Practica\node_modules\fs
+
+[.]            [..]           package.json   README.md      
+               2 archivos          2.313 bytes
+
+     Total de archivos en la lista:
+             843 archivos     15.860.835 bytes
+             920 dirs  28.764.753.920 bytes libres
