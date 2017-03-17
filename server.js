@@ -20,4 +20,4 @@ http.get({host: 'www.bbc.co.uk'}, function(res) {
 fs.readFile('hola2.txt','utf8',function (err, data) {
     if(err) throw err;
     console.log('File 2 read!');
-});
+}); //kk
